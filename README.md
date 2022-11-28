@@ -75,6 +75,7 @@ Quick Reference
 ## 前端
 
 [CSS 3](./docs/css.md)<!--rehype:style=background: rgb(35 115 205);&class=tag&data-lang=CSS-->  
+[Cordova](./docs/cordova.md)<!--rehype:style=background: rgb(0 72 153);-->  
 [Electron](./docs/electron.md)<!--rehype:style=background: rgb(0 72 153);-->  
 [Emmet](./docs/emmet.md)<!--rehype:style=background: rgb(122 203 23);-->  
 [ES 6](./docs/es6.md)<!--rehype:style=background: rgb(122 203 23);&class=tag&data-lang=JS-->  
